@@ -1,2 +1,2 @@
 # Andrei_Assistant
-An assistant like Cortana but is in Romanian,it cand do a lot of things,it is made in python.
+A voice assinstant that speaks in Romanian similar to Cortana,it was made in python and can do a lot of things.
